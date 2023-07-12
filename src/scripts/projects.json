@@ -1,0 +1,54 @@
+{
+    "projects": [
+        {
+            "name": "Meshroom Geolocalisation",
+            "description": "Intensive 3 weeks team project in order to create a module for geolocalisation information in Meshroom software.",
+            "linkLive": "https://alicevision.org/#meshroom",
+            "linkSource": "https://github.com/alicevision/MeshroomGeolocation",
+            "image": "./static/meshroom.gif"
+        },
+        {
+            "name": "Advent of Code 2022",
+            "description": "Everyday small challenges done in C++ and Python to learn about how to solve algorithm problems.",
+            "linkLive": "https://adventofcode.com/2022",
+            "linkSource": "https://github.com/Just-Kiel/AdventOfCode2022",
+            "image": "https://cdn.thenewstack.io/media/2021/12/521cd034-advent-of-code-2021.jpg"
+        },
+        {
+            "name": "MMI XP 2021",
+            "description": "Made in Three.js, I had the opportunity to work  on a virtual experience for a festival. Done in 2 months, I discovered Three.js and developped it.",
+            "linkLive": "http://mmi-xp.just-kiel.fr/",
+            "linkSource": "https://github.com/Just-Kiel/Three.js",
+            "image": "https://raw.githubusercontent.com/Just-Kiel/Three.js/main/static/image/banniere.png"
+        },
+        {
+            "name": "PokIMAC",
+            "description": "Pokemon-like game done in Semester 1 of IMAC school with Sarah N'Gotta",
+            "linkLive": "https://github.com/Just-Kiel/PokIMAC",
+            "linkSource": "https://github.com/Just-Kiel/PokIMAC",
+            "image": "./static/pokimac.jpg"
+        },
+        {
+            "name": "Le QG",
+            "description": "Web project made in Semester 2 of IMAC school to teach us how to use PHP",
+            "linkLive": "http://le-qg.just-kiel.fr/",
+            "linkSource": "https://github.com/Just-Kiel/IMAC-Web-S2",
+            "image": "./static/LEQG_logo.png"
+        },
+        {
+            "name": "Les Cassoulettes Were Alone",
+            "description": "Small project with OpenGL made during Semester 2 of IMAC in 2022 with Sarah N'Gotta",
+            "linkLive": "https://github.com/Just-Kiel/LesCassoulettesWereAlone",
+            "linkSource": "https://github.com/Just-Kiel/LesCassoulettesWereAlone",
+            "image": "https://raw.githubusercontent.com/Just-Kiel/LesCassoulettesWereAlone/main/res/images/home_fond.png"
+        },
+        {
+            "name": "Walk Through Raster",
+            "description": "Interactive experience made in P5.js during Semester 2 of IMAC in 2022 with Sarah N'Gotta",
+            "linkLive": "https://just-kiel.github.io/Walk-Through-Raster/",
+            "linkSource": "https://github.com/Just-Kiel/Walk-Through-Raster",
+            "image": "./static/walkThroughRaster.png"
+        }
+    ]
+
+}
