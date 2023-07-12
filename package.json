@@ -3,9 +3,10 @@
   "version": "1.0.1",
   "private": "true",
   "description": "My personal website based on the Simplefolio template by Jacobo Martinez.",
+  "source": "src/index.html",
   "scripts": {
     "start": "parcel",
-    "build": "parcel build"
+    "build": "parcel build --public-url ./PersonalWebsite/"
   },
   "repository": {
     "type": "git",
