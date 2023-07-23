@@ -17,7 +17,7 @@
         {
             "name": "MMI XP 2021",
             "description": "Made in Three.js, I had the opportunity to work  on a virtual experience for a festival. Done in 2 months, I discovered Three.js and developped it.",
-            "linkLive": "http://mmi-xp.just-kiel.fr/",
+            "linkLive": "https://just-kiel.github.io/Three.js/",
             "linkSource": "https://github.com/Just-Kiel/Three.js",
             "image": "https://raw.githubusercontent.com/Just-Kiel/Three.js/main/static/image/banniere.png"
         },
@@ -31,7 +31,7 @@
         {
             "name": "Le QG",
             "description": "Web project made in Semester 2 of IMAC school to teach us how to use PHP",
-            "linkLive": "http://le-qg.just-kiel.fr/",
+            "linkLive": "https://aurore-lafaurie.alwaysdata.net/le_qg/router.php/accueil",
             "linkSource": "https://github.com/Just-Kiel/IMAC-Web-S2",
             "image": "./static/LEQG_logo.png"
         },
