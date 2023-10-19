@@ -1,6 +1,27 @@
 {
     "projects": [
         {
+            "name": "Hololens 2 - Research Project",
+            "description": "Research project currently in progress (until February 2024). The goal is to have an experience using Unity and Hololens 2. Project is done during semester abroad in Hakodate, Japan.",
+            "linkLive": "https://github.com/Just-Kiel/HololensDanceInteraction",
+            "linkSource": "https://github.com/Just-Kiel/HololensDanceInteraction",
+            "image": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/gldn-Hololens2-ImmHero:VP2-859x540"
+        },
+        {
+            "name": "C++ / OpenGL Paperplane Boids",
+            "description": "Boids simulation made in C++ and OpenGL. The goal was to learn how to use OpenGL and how to make a boids simulation. Also had fun using instancing and shaders.",
+            "linkLive": "https://youtu.be/RWAX_KxE-CQ",
+            "linkSource": "https://github.com/Just-Kiel/IMAC-Prog-S4",
+            "image": "./static/boids-menu.png"
+        },
+        {
+            "name": "3D Title Sequence",
+            "description": "Created the 3D title sequence of an invented movie using Blender and After Effects.",
+            "linkLive": "https://youtu.be/O0eOTbKIV5U",
+            "linkSource": "https://youtu.be/O0eOTbKIV5U",
+            "image": "./static/title-sequence.gif"
+        },
+        {
             "name": "Meshroom Geolocalisation",
             "description": "Intensive 3 weeks team project in order to create a module for geolocalisation information in Meshroom software.",
             "linkLive": "https://alicevision.org/#meshroom",
